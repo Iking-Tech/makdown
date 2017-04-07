@@ -79,6 +79,7 @@ return 0;
 ```
 # 支持表情
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:heart: :heartpulse:
 * 表情[Emoji表情](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 # 表格
 标题 | 内容 | 备注
